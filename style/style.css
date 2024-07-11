@@ -12,9 +12,10 @@
     
 }
 .banner{
-    background-image: url(../Hero-bg.png);
+    background-image: url(../B10A1-Challenge-Begins/assets/Hero-bg.png);
     
-    margin-top: 100px;
+    margin-top: 100px; 
+    margin-bottom: 100px;
 
     
 
@@ -26,14 +27,15 @@
 }
 main{
     padding: 97px 80px;
+    background-color: rgba(13, 19, 33, 0.02); 
 }
 .information{
-    background-color: rgba(13, 19, 33, 0.02);
-    margin-top: 100px;
+
+    
     text-align: center;
 }
 .one ,.two,.three{
     display: flex;
     gap: 100px;
-    margin: ;
+
 }
