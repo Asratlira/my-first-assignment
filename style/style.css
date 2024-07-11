@@ -12,7 +12,7 @@
     
 }
 .banner{
-    background-image: url(../B10A1-Challenge-Begins/assets/Hero-bg.png);
+    background-image: url(../assets/Hero-bg.png);
     
     margin-top: 100px; 
     margin-bottom: 100px;
@@ -68,7 +68,7 @@ skill{
     padding: 97px 80px;
     text-align: center;
     color: white;
-    background-image: url(../B10A1-Challenge-Begins/assets/handshake.jpg);
+    background-image: url(../assets/handshake.jpg);
     margin-bottom: 100px;
 
 }
